@@ -23,4 +23,4 @@ class MemberList
 end
 
 file = Pathname.new 'html/official.html'
-puts EveryPoliticianScraper::FileData.new(file).csv
+puts EveryPoliticianScraper::FileData.new(file).csv if file.exist? && !file.empty?

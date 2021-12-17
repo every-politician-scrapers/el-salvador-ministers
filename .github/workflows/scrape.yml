@@ -24,6 +24,8 @@ jobs:
         bundle install
     - name: Compare official site (mirrored earlier) to Wikidata
       run: bash bin/compare-official.sh
+    - name: Compare Wikipedia to Wikidata
+      run: bash bin/compare-eswiki.sh
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3

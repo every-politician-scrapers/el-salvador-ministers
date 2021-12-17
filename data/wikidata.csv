@@ -1,13 +1,19 @@
-wdid,name,wdLabel,source,sourceDate,pid,position,psid
-Q17712353,Nayib Bukele,Nayib Bukele,,,Q878151,President of El Salvador,Q17712353-11132b04-4ba4-cead-5d0c-1da0c780b282
-Q56204375,Enrique Hoyos,Enrique Hoyos,,,Q56457352,Minister of Foreign Affairs of El Salvador,Q56204375-0cf3600f-4e42-647b-dd78-331aa09774c6
-Q5904891,Humberto Corado Figueroa,Humberto Corado Figueroa,https://www.diariooficial.gob.sv/diarios/do-1993/07-julio/julio-1993_Parte65.pdf,,Q67054651,Minister of National Defense,Q5904891-4e9dc0a0-4b0c-d338-ab0d-24088cd2553f
-Q59315785,Gregorio Arbizú,Gregorio Arbizú,http://abaco.uca.edu.sv/acervo/Diario_Oficial/1863%20falta%20oct/1863-11.pdf,,Q56457352,Minister of Foreign Affairs of El Salvador,Q59315785-1686a897-4b72-d1cf-168a-3c8d9e846220
-Q59315871,Manuel Cáceres,Manuel Cáceres,http://abaco.uca.edu.sv/acervo/Diario_Oficial/1872%20falta%20feb%20mar/1872-12.pdf,,Q56457352,Minister of Foreign Affairs of El Salvador,Q59315871-2e6b8051-4893-6193-4e08-045b2a628e60
-Q60141835,Manuel Irungaray,Manuel Irungaray,http://abaco.uca.edu.sv/acervo/Diario_Oficial/1859/1859-02.pdf,,Q56457352,Minister of Foreign Affairs of El Salvador,Q60141835-d29b0e65-49f9-7831-b05f-84a728558d65
-Q61722317,Valerio Irungaray,Valerio Irungaray,http://abaco.uca.edu.sv/acervo/Diario_Oficial/1859/1859-02.pdf,,Q61722320,Minister of Governance of El Salvador,Q61722317-56d771c3-46b1-b68d-8a60-df408e9403f0
-Q63226662,Juan José Bonilla,Juan José Bonilla,,,Q61722320,Minister of Governance of El Salvador,Q63226662-727ce66a-4280-1b0c-6544-a88dbe7d45f5
-Q67054108,René Francis Merino Monroy,René Francis Merino Monroy,https://www.diariooficial.gob.sv/diarios/do-2019/06-junio/01-06-2019.pdf,,Q67054651,Minister of National Defense,Q67054108-a19c7899-4d2f-c63c-8624-d90c64a2c0b5
-Q67055444,Juana Alexandra Hill Tinoco,Juana Alexandra Hill Tinoco,https://www.diariooficial.gob.sv/diarios/do-2019/06-junio/01-06-2019.pdf,,Q56457352,Minister of Foreign Affairs of El Salvador,Q67055444-526e9624-4eba-1e84-b79a-3be639d25ba7
-Q67056339,Mario Edgardo Durán Gavidia,Mario Edgardo Durán Gavidia,,,Q61722320,Minister of Governance of El Salvador,Q67056339-c029f25e-45d9-5dc3-bb7f-8e8049e56c5f
-Q67056921,Rogelio Eduardo Rivas Polanco,Rogelio Eduardo Rivas Polanco,https://www.diariooficial.gob.sv/diarios/do-2019/06-junio/01-06-2019.pdf,,Q67056742,Minister of Justice and Public Security,Q67056921-f22c9f36-4ea4-c9e1-8e82-a96bde9e268f
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q104111057,María Ofelia Navarrete,María Ofelia Navarrete,,,Q110164545,Minister of Local Development of El Salvador,2019-06-01,Q104111057-50557083-9989-4FDF-A9BF-CE1CEE95F669
+Q105735880,Alejandro Zelaya,Alejandro Zelaya,,,Q56249714,Minister of Finance of El Salvador,2020-07-28,Q105735880-E1A246B2-E6D6-4156-B466-376EB0BDF1CF
+Q110164006,Héctor Gustavo Villatoro,Héctor Gustavo Villatoro,,,Q67056742,Minister of Justice and Public Security,2021-03-26,Q110164006-22D9A13B-4AB8-44B0-8DAA-006591A2988D
+Q110164741,Carla Evelyn Hananía de Varela,Carla Evelyn Hananía de Varela,,,Q67071405,"Minister of Education, Science and Technology",2019-06-01,Q110164741-624393FD-A734-4A34-AF0C-A24EEAFCAA8B
+Q110164787,Óscar Rolando Castro,Óscar Rolando Castro,,,Q110164783,Minister of Labour and Social Provision of El Salvador,2019-06-01,Q110164787-768AAD44-BEF0-4B26-9A70-E5EE4D4EE997
+Q110164923,David Josué Martínez,David Josué Martínez,,,Q110164917,Minister of Agriculture and Livestock,2021-04-07,Q110164923-AE014A8A-A9AF-4234-9ED6-CF805DB0EEF8
+Q110164961,Francisco José Alabí Montoya,Francisco José Alabí Montoya,,,Q110164949,Minister of Health,2020-03-27,Q110164961-F9A0564F-8698-4622-ABC6-52747BF25D69
+Q110164989,Edgar Romeo Rodríguez Herrera,Edgar Romeo Rodríguez Herrera,,,Q110164986,Minister of Public Works,2019-06-01,Q110164989-CE282D7A-FC8A-41AD-B261-710263E6EB19
+Q110165006,Fernando Andrés López Larreynaga,Fernando Andrés López Larreynaga,,,Q110164996,Minister of Environment and Natural Resources of El Salvador,2019-06-01,Q110165006-20424A89-13DC-481F-86DA-4C37B7A69F4F
+Q110165013,Morena Ileana Valdez Vigil,Morena Ileana Valdez Vigil,,,Q110165011,Minister of Tourism,2019-06-01,Q110165013-D6427ED7-4A4F-4F8F-BD81-A95E1A47F2A7
+Q110165116,Juan Carlos Bidegain Hananía,Juan Carlos Bidegain Hananía,,,Q61722320,Minister of Internal Affairs of El Salvador,2020-11-20,Q110165116-073377D5-84E8-4C72-A530-961007B80AA6
+Q110165180,Mariemm Eunice Pleitez Quiñonez,Mariemm Eunice Pleitez Quiñonez,,,Q110164211,Minister of Culture,2020-07-30,Q110165180-018CB45F-38D5-4CA1-AEEE-F0C5A6140238
+Q17712353,Nayib Bukele,Nayib Bukele,,,Q878151,President of El Salvador,2019-06-01,Q17712353-11132b04-4ba4-cead-5d0c-1da0c780b282
+Q48688454,Michelle Sol,Michelle Sol,,,Q110164285,Minister of Housing of El Salvador,2019-06-01,Q48688454-A94D0E80-DAE2-4D80-AE7E-BC247EA4259A
+Q61022687,"Félix Ulloa, Jr.","Félix Ulloa, Jr.",,,Q7925044,Vice President of El Salvador,2019-06-01,Q61022687-7e23207c-44ac-ab62-2418-58897f150837
+Q63744690,Alexandra Hill Tinoco,Alexandra Hill Tinoco,https://www.diariooficial.gob.sv/diarios/do-2019/06-junio/01-06-2019.pdf,,Q56457352,Minister of Foreign Affairs of El Salvador,2019-06-01,Q63744690-A8E06845-45C1-4E38-89DC-E7D5BB0C5125
+Q67054108,René Francis Merino Monroy,René Francis Merino Monroy,https://www.diariooficial.gob.sv/diarios/do-2019/06-junio/01-06-2019.pdf,,Q67054651,Minister of National Defense,2019-06-01,Q67054108-a19c7899-4d2f-c63c-8624-d90c64a2c0b5
+Q85191654,Maria Luisa Hayem,Maria Luisa Hayem,,,Q110164123,Minister of Economy of El Salvador,2019-06-01,Q85191654-43F64371-10F1-4616-8531-18A1A5C04D68

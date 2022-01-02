@@ -1,0 +1,91 @@
+{
+  "title": "Alejandro Zelaya",
+  "pageID": 66963053,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Government ministers of El Salvador",
+    "Finance ministers of El Salvador"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Alejandro Zelaya Villalobo is a Salvadoran policitian.",
+              "links": [
+                {
+                  "text": "Salvadoran",
+                  "type": "internal",
+                  "page": "El Salvador"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Alejandro Zelaya Villalobo"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Minister of Finance in the cabinet of President Nayib Bukele.",
+              "links": [
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Nayib Bukele"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nayib Bukele"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Deputy Minister of Revenue in the same cabinet."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Salvadoran policitian",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Zelaya",
+            "Villalobo"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alejandro Zelaya"
+          },
+          "office": {
+            "text": "Minister of Finance"
+          },
+          "term_start": {
+            "text": "28 July 2020"
+          },
+          "predecessor": {
+            "text": "Nelson Fuentes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nelson Fuentes"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Félix Ulloa",
+  "pageID": 59852017,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "People from San Miguel Department (El Salvador)",
+    "Salvadoran lawyers",
+    "Vice presidents of El Salvador"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Felix Augusto Antonio Ulloa Garay (born 6 April 1951) is a Salvadoran politician and lawyer who is the current Vice President of El Salvador since 1 June 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of El Salvador"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Felix Augusto Antonio Ulloa Garay"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vice President Of El Salvador (born 1951)",
+          "template": "short description"
+        },
+        {
+          "date": "February 2021",
+          "template": "peacock"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2021",
+          "template": "more citations needed"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "list": [
+            "Ulloa",
+            "Garay"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1951",
+          "month": "4",
+          "day": "6",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Lilian Alvarenga de Ulloa",
+          "from": "1973",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Félix Ulloa"
+          },
+          "image": {
+            "text": "Vicepresidente Ulloa (cropped).jpg"
+          },
+          "office": {
+            "text": "37th Vice President of El Salvador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of El Salvador"
+              }
+            ]
+          },
+          "president": {
+            "text": "Nayib Bukele",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nayib Bukele"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 June 2019"
+          },
+          "predecessor": {
+            "text": "Óscar Ortiz",
+            "links": [
+              {
+                "text": "Óscar Ortiz",
+                "type": "internal",
+                "page": "Óscar Ortiz (El Salvador)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 6, 1951"
+          },
+          "birth_place": {
+            "text": "Chinameca, San Miguel, El Salvador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinameca, San Miguel"
+              }
+            ]
+          },
+          "party": {
+            "text": "GANA",
+            "links": [
+              {
+                "text": "GANA",
+                "type": "internal",
+                "page": "Grand Alliance for National Unity"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Lilian Alvarenga de Ulloa (m. 1973)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "website": {
+            "text": "www.presidencia.gob.sv/vicepresidencia"
+          },
+          "education": {
+            "text": "Complutense University of Madrid (JD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Complutense University of Madrid"
+              },
+              {
+                "text": "JD",
+                "type": "internal",
+                "page": "Juris Doctor"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

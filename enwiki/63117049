@@ -1,0 +1,92 @@
+{
+  "title": "Maria Luisa Hayem",
+  "pageID": 63117049,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Women government ministers of El Salvador",
+    "Government ministers of El Salvador",
+    "21st-century women politicians",
+    "Tufts University alumni",
+    "University of Paris alumni",
+    "Salvadoran economists",
+    "Women economists",
+    "21st-century economists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maria Luisa Hayem Brevé became the Salvadoran Minister of the Economy in 2019.",
+              "links": [
+                {
+                  "text": "Salvadoran",
+                  "type": "internal",
+                  "page": "El Salvador"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maria Luisa Hayem Brevé"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Salvadoran economist and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Hayem",
+            "Brevé"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Maria Luisa Hayem"
+          },
+          "image": {
+            "text": "El Salvador's Minister of Economy Maria Luisa Hayem (cropped).jpg"
+          },
+          "known_for": {
+            "text": "El Salvador's Minister of the Economy"
+          },
+          "education": {
+            "text": "Higher School of Economics and Business, Tufts University and at the Sorbonne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tufts University"
+              },
+              {
+                "type": "internal",
+                "page": "Sorbonne"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "El Salvador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "El Salvador"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "title": "René Merino Monroy",
+  "pageID": 65228457,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Salvadoran military personnel",
+    "Defence ministers of El Salvador",
+    "Captain General Gerardo Barrios Military School alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "René Francis Merino Monroy (born 30 December 1963) is a Salvadoran vice admiral who serves as the incumbent Minister of Defense of El Salvador under President Nayib Bukele.",
+              "links": [
+                {
+                  "text": "vice admiral",
+                  "type": "internal",
+                  "page": "vice admiral"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Defense of El Salvador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nayib Bukele"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "René Francis Merino Monroy"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Minister of Defense of El Salvador",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Merino",
+            "Monroy"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1963",
+          "month": "12",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Vicealmirante",
+            "links": [
+              {
+                "text": "Vicealmirante",
+                "type": "internal",
+                "page": "Vice admiral"
+              }
+            ]
+          },
+          "name": {
+            "text": "René Merino Monroy"
+          },
+          "office": {
+            "text": "Minister of National Defense",
+            "links": [
+              {
+                "text": "Minister of National Defense",
+                "type": "internal",
+                "page": "Minister of National Defense of El Salvador"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 June 2019"
+          },
+          "president": {
+            "text": "Nayib Bukele",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nayib Bukele"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "David Munguía Payés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Munguía Payés"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 30, 1963"
+          },
+          "birth_place": {
+            "text": "Santa Tecla, El Salvador",
+            "links": [
+              {
+                "text": "Santa Tecla",
+                "type": "internal",
+                "page": "Santa Tecla, El Salvador"
+              },
+              {
+                "type": "internal",
+                "page": "El Salvador"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Captain General Gerardo Barrios Military School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Captain General Gerardo Barrios Military School"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Military",
+            "links": [
+              {
+                "text": "Military",
+                "type": "internal",
+                "page": "Salvadoran Navy"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇸🇻 El Salvador",
+            "links": [
+              {
+                "text": "El Salvador",
+                "type": "internal",
+                "page": "el salvador"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Salvadoran Navy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salvadoran Navy"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1986–present"
+          },
+          "rank": {
+            "text": "US Navy O9 shoulderboard.svg Vicealmirante",
+            "links": [
+              {
+                "text": "Vicealmirante",
+                "type": "internal",
+                "page": "Vice admiral"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

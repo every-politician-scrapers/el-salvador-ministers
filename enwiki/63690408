@@ -1,0 +1,123 @@
+{
+  "title": "Alexandra Hill Tinoco",
+  "pageID": 63690408,
+  "categories": [
+    "Living people",
+    "Boston University alumni",
+    "Johns Hopkins Bloomberg School of Public Health alumni",
+    "Organization of American States people",
+    "Salvadoran Ministers of Foreign Affairs",
+    "Female foreign ministers",
+    "Women government ministers of El Salvador",
+    "21st-century women politicians",
+    "Salvadoran people of English descent",
+    "1957 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexandra Hill Tinoco is a Salvadoran politician who has been El Salvador's Foreign Minister since June 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salvadoran"
+                },
+                {
+                  "type": "internal",
+                  "page": "El Salvador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign Minister"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alexandra Hill Tinoco"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Salvadoran politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Hill",
+            "Tinoco"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1957",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alexandra Hill Tinoco"
+          },
+          "image": {
+            "text": "John Bolton and Salvadoran FM Hill in San Salvador (1) (cropped).jpg"
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs of El Salvador",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs of El Salvador",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (El Salvador)"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Nayib Bukele",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nayib Bukele"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 June 2019"
+          },
+          "predecessor1": {
+            "text": "Carlos Castaneda"
+          },
+          "birth_date": {
+            "text": "1957 (age 65)"
+          },
+          "birth_place": {
+            "text": "San Salvador, El Salvador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Salvador"
+              },
+              {
+                "type": "internal",
+                "page": "El Salvador"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

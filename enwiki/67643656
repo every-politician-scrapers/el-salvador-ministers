@@ -103,12 +103,17 @@
             ]
           },
           "office1": {
-            "text": "Deputy of the Legislative Assembly",
+            "text": "Deputy of the Legislative Assembly from San Salvador",
             "links": [
               {
                 "text": "Legislative Assembly",
                 "type": "internal",
                 "page": "Legislative Assembly of El Salvador"
+              },
+              {
+                "text": "San Salvador",
+                "type": "internal",
+                "page": "San Salvador Department"
               }
             ]
           },

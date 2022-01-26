@@ -432,7 +432,8 @@
             "text": "Gabriela Rodríguez (m. 2014)"
           },
           "children": {
-            "text": "1\nLayla Bukele"
+            "text": "1",
+            "number": 1
           },
           "education": {
             "text": "Central American University (no degree)",

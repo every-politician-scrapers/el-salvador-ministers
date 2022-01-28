@@ -63,7 +63,7 @@
           "template": "family name hatnote"
         },
         {
-          "birth_year": "1957",
+          "birth_year": "1965",
           "template": "birth year and age"
         }
       ],
@@ -101,7 +101,7 @@
             "text": "Carlos Castaneda"
           },
           "birth_date": {
-            "text": "1957 (age 65)"
+            "text": "1965 (age 57)"
           },
           "birth_place": {
             "text": "San Salvador, El Salvador",

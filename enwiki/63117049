@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Maria Luisa Hayem Brevé became the Salvadoran Minister of the Economy in 2019.",
+              "text": "Maria Luisa Hayem Brevé is a Salvadoran economist and politician.",
               "links": [
                 {
                   "text": "Salvadoran",
@@ -34,6 +34,9 @@
                   "Maria Luisa Hayem Brevé"
                 ]
               }
+            },
+            {
+              "text": "She became the Minister of the Economy of Salvador in 2019."
             }
           ]
         }

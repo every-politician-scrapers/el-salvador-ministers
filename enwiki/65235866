@@ -1,190 +1,21 @@
 {
-  "title": "Michelle Sol",
-  "pageID": 65235866,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "Sol family",
-    "Housing ministers of El Salvador"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Irma Michelle Martha Ninette Sol Schweikert de Castro most known as Michelle Sol (b.",
-              "formatting": {
-                "bold": [
-                  "Irma Michelle Martha Ninette Sol Schweikert de Castro",
-                  "Michelle Sol"
-                ]
-              }
-            },
-            {
-              "text": "20 December 1972) is a Salvadoran politician and the incumbent Minister of Housing of El Salvador.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Housing of El Salvador"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Minister of Housing of El Salvador",
-          "template": "short description"
-        },
-        {
-          "date": "September 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Sol",
-            "Schweikert",
-            "Castro"
-          ],
-          "template": "spanish married name"
-        },
-        {
-          "year": "1972",
-          "month": "12",
-          "day": "20",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Michelle Sol"
-          },
-          "image": {
-            "text": "File:M-sol-alcaldesa-nuevo-cuscatlan.png"
-          },
-          "office": {
-            "text": "Minister of Housing",
-            "links": [
-              {
-                "text": "Minister of Housing",
-                "type": "internal",
-                "page": "Minister of Housing of El Salvador"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 June 2019"
-          },
-          "president": {
-            "text": "Nayib Bukele",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nayib Bukele"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "office1": {
-            "text": "Mayor of Nuevo Cuscatlán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nuevo Cuscatlán"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Nayib Bukele",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nayib Bukele"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Roberto Morales"
-          },
-          "term_start1": {
-            "text": "1 May 2015"
-          },
-          "term_end1": {
-            "text": "1 June 2019"
-          },
-          "birth_name": {
-            "text": "Irma Michelle Martha Ninette Sol de Castro"
-          },
-          "birth_date": {
-            "text": "December 20, 1972"
-          },
-          "birth_place": {
-            "text": "Nuevo Cuscatlán, El Salvador",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nuevo Cuscatlán"
-              },
-              {
-                "type": "internal",
-                "page": "El Salvador"
-              }
-            ]
-          },
-          "party": {
-            "text": "Nuevas Ideas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nuevas Ideas"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Farabundo Martí National Liberation Front(2012-2019)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Farabundo Martí National Liberation Front"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ernesto Castro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ernesto Castro"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "José Matías Delgado University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Matías Delgado University"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician, marketer"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Michelle Sol",
+  "image": "File:M-sol-alcaldesa-nuevo-cuscatlan.png",
+  "office": "Minister of Housing",
+  "term_start": "1 June 2019",
+  "president": "Nayib Bukele",
+  "predecessor": "Position established",
+  "office1": "Mayor of Nuevo Cuscatlán",
+  "predecessor1": "Nayib Bukele",
+  "successor1": "Roberto Morales",
+  "term_start1": "1 May 2015",
+  "term_end1": "1 June 2019",
+  "birth_name": "Irma Michelle Martha Ninette Sol de Castro",
+  "birth_date": "December 20, 1972",
+  "birth_place": "Nuevo Cuscatlán, El Salvador",
+  "party": "Nuevas Ideas",
+  "otherparty": "Farabundo Martí National Liberation Front(2012-2019)",
+  "spouse": "Ernesto Castro",
+  "alma_mater": "José Matías Delgado University",
+  "occupation": "Politician, marketer"
 }

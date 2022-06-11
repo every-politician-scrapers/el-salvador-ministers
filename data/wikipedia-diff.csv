@@ -5,6 +5,8 @@
 ->,Q67054108->NULL,René Francis Merino Monroy,Ministro de la Defensa Nacional
 ->,Q56249753,Nelson Eduardo Fuentes Menjivar->Nelson Eduardo Fuentes Menjívar,Ministro de Hacienda
 ->,Q48688454,Michelle Sol,Ministerio de Vivienda y Desarrollo Urbano->Ministro de Vivienda y Desarrollo Urbano
+->,Q112225518->NULL,Enrique José Parada Rivas,Ministro de Agricultura y Ganadería
+->,Q112225512->NULL,José Mauricio Pineda Rodríguez,"Ministro de Educación, Ciencia y Tecnología->Ministro de Educación,Ciencia y Tecnología"
 ->,Q110165180->NULL,Mariemm Eunice Pleitez Quiñonez,Ministro de Cultura
 ->,Q110165116->NULL,Juan Carlos Bidegain Hananía,Ministro de Gobernación de El Salvador->Ministro de Gobernación y Desarrollo Territorial
 ->,Q110165013->NULL,Morena Ileana Valdez Vigil,Ministro de Turismo
@@ -23,5 +25,3 @@
 ---,Q17712353,Nayib Bukele,presidente de El Salvador
 ---,Q106695889,Suecy Callejas,Ministro de Cultura
 +++,"",Suecy Beverly Callejas Estrada,Ministro de Cultura
-+++,"",Enrique José Parada Rivas,Ministro de Agricultura y Ganadería
-+++,"",José Mauricio Pineda Rodríguez,"Ministro de Educación,Ciencia y Tecnología"

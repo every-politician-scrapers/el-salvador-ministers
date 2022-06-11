@@ -1,0 +1,13 @@
+{
+    "jurisdiction": {
+      "name": "El Salvador",
+      "id": "Q792"
+    },
+    "cabinet": {
+      "id": "Q104855056",
+      "start": "2019-06-01",
+      "parent": "Q5589203"
+    },
+    "source": "https://es.wikipedia.org/wiki/Anexo:Gabinete_de_Nayib_Bukele",
+    "lang": "es"
+}

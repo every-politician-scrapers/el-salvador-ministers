@@ -1,25 +1,25 @@
-wdid,name,position
-Q67056339,Mario Edgardo Durán Gavidia,Ministerio de Gobernación y Desarrollo Territorial
-,Juan Carlos Bidegain Hananía,Ministerio de Gobernación y Desarrollo Territorial
-Q63744690,Alexandra Hill Tinoco,Ministerio de Relaciones Exteriores
-,Rogelio Eduardo Rivas Polanco,Ministerio de Justicia y Seguridad Pública
-,Héctor Gustavo Villatoro,Ministerio de Justicia y Seguridad Pública
-Q56249753,Nelson Eduardo Fuentes Menjívar,Ministerio de Hacienda
-,Alejandro Zelaya,Ministerio de Hacienda
-,María Luisa Hayem Brevé,Ministerio de Economía
-,Carla Evelyn Hananía de Varela,"Ministerio de Educación,Ciencia y Tecnología"
-,José Mauricio Pineda Rodríguez,"Ministerio de Educación,Ciencia y Tecnología"
-,René Francis Merino Monroy,Ministerio de la Defensa Nacional
-,Óscar Rolando Castro,Ministerio de Trabajo y Previsión Social
-,Pablo Salvador Anliker Infante,Ministerio de Agricultura y Ganadería
-,David Josué Martínez,Ministerio de Agricultura y Ganadería
-,Enrique José Parada Rivas,Ministerio de Agricultura y Ganadería
-,Ana del Carmen Orellana Bendek,Ministerio de Salud
-,Francisco José Alabí Montoya,Ministerio de Salud
-,Edgar Romeo Rodríguez Herrera,Ministerio de Obras Públicas y Transporte
-,Fernando Andrés López Larreynaga,Ministerio de Medio Ambiente y Recursos Naturales
-,Morena Ileana Valdez Vigil,Ministerio de Turismo
-,Suecy Beverly Callejas Estrada,Ministerio de Cultura
-,Mariemm Eunice Pleitez Quiñonez,Ministerio de Cultura
-Q48688454,Michelle Sol,Ministerio de Vivienda y Desarrollo Urbano
-,María Ofelia Navarrete de Dubon,Ministerio de Desarrollo Local
+item,itemLabel,position,positionLabel,startDate,endDate
+,Mario Edgardo Durán Gavidia,,Ministerio de Gobernación y Desarrollo Territorial,2019-06-01,2020-11-20
+,Juan Carlos Bidegain Hananía,,Ministerio de Gobernación y Desarrollo Territorial,2020-11-20,
+,Alexandra Hill Tinoco,,Ministerio de Relaciones Exteriores,2019-06-01,
+,Rogelio Eduardo Rivas Polanco,,Ministerio de Justicia y Seguridad Pública,2019-06-01,2021-04-23
+,Héctor Gustavo Villatoro,,Ministerio de Justicia y Seguridad Pública,2021-04-23,
+,Nelson Eduardo Fuentes Menjívar,,Ministerio de Hacienda,2018-04-20,2020-07-28
+,Alejandro Zelaya,,Ministerio de Hacienda,2020-07-28,
+,María Luisa Hayem Brevé,,Ministerio de Economía,2019-06-01,
+,Carla Evelyn Hananía de Varela,,"Ministerio de Educación,Ciencia y Tecnología",2019-06-01,2022-03-22
+,José Mauricio Pineda Rodríguez,,"Ministerio de Educación,Ciencia y Tecnología",2022-03-22,
+,René Francis Merino Monroy,,Ministerio de la Defensa Nacional,2019-06-01,
+,Óscar Rolando Castro,,Ministerio de Trabajo y Previsión Social,2019-06-01,
+,Pablo Salvador Anliker Infante,,Ministerio de Agricultura y Ganadería,2019-06-01,2021-04-07
+,David Josué Martínez,,Ministerio de Agricultura y Ganadería,2021-04-07,2022-03-09
+,Enrique José Parada Rivas,,Ministerio de Agricultura y Ganadería,2022-03-09,
+,Ana del Carmen Orellana Bendek,,Ministerio de Salud,2019-06-01,2020-03-27
+,Francisco José Alabí Montoya,,Ministerio de Salud,2020-03-27,
+,Edgar Romeo Rodríguez Herrera,,Ministerio de Obras Públicas y Transporte,2019-06-01,
+,Fernando Andrés López Larreynaga,,Ministerio de Medio Ambiente y Recursos Naturales,2019-06-01,
+,Morena Ileana Valdez Vigil,,Ministerio de Turismo,2019-06-01,
+,Suecy Beverly Callejas Estrada,,Ministerio de Cultura,2019-06-01,2020-07-01
+,Mariemm Eunice Pleitez Quiñonez,,Ministerio de Cultura,2021-07-30,
+,Michelle Sol,,Ministerio de Vivienda y Desarrollo Urbano,2019-06-01,
+,María Ofelia Navarrete de Dubon,,Ministerio de Desarrollo Local,2019-06-01,

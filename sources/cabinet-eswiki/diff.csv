@@ -1,27 +1,7 @@
-@@,wdid,name,position
-->,Q85191654->NULL,Maria Luisa Hayem->María Luisa Hayem Brevé,Ministro de Economía
-->,Q67056921->NULL,Rogelio Eduardo Rivas Polanco,Ministro de Justicia y Seguridad Pública
-->,Q67056339,Mario Edgardo Durán Gavidia,Ministro de Gobernación de El Salvador->Ministro de Gobernación y Desarrollo Territorial
-->,Q67054108->NULL,René Francis Merino Monroy,Ministro de la Defensa Nacional
-->,Q56249753,Nelson Eduardo Fuentes Menjivar->Nelson Eduardo Fuentes Menjívar,Ministro de Hacienda
-->,Q48688454,Michelle Sol,Ministerio de Vivienda y Desarrollo Urbano->Ministro de Vivienda y Desarrollo Urbano
-->,Q110165180->NULL,Mariemm Eunice Pleitez Quiñonez,Ministro de Cultura
-->,Q110165116->NULL,Juan Carlos Bidegain Hananía,Ministro de Gobernación de El Salvador->Ministro de Gobernación y Desarrollo Territorial
-->,Q110165013->NULL,Morena Ileana Valdez Vigil,Ministro de Turismo
-->,Q110165006->NULL,Fernando Andrés López Larreynaga,Ministro de Medio Ambiente y Recursos Naturales
-->,Q110164989->NULL,Edgar Romeo Rodríguez Herrera,Ministro de Obras Públicas y Transporte
-->,Q110164961->NULL,Francisco José Alabí Montoya,Ministro de Salud
-->,Q110164954->NULL,Ana del Carmen Orellana Bendek,Ministro de Salud
-->,Q110164923->NULL,David Josué Martínez,Ministro de Agricultura y Ganadería
-->,Q110164921->NULL,Pablo Salvador Anliker Infante,Ministro de Agricultura y Ganadería
-->,Q110164787->NULL,Óscar Rolando Castro,Ministro de Trabajo y Previsión Social
-->,Q110164741->NULL,Carla Evelyn Hananía de Varela,"Ministro de Educación, Ciencia y Tecnología->Ministro de Educación,Ciencia y Tecnología"
-->,Q110164006->NULL,Héctor Gustavo Villatoro,Ministro de Justicia y Seguridad Pública
-->,Q105735880->NULL,Alejandro Zelaya,Ministro de Hacienda
-->,Q104111057->NULL,María Ofelia Navarrete->María Ofelia Navarrete de Dubon,Ministro de Desarrollo Local
----,Q61022687,"Félix Ulloa, Jr.",vicepresidente de El Salvador
----,Q17712353,Nayib Bukele,presidente de El Salvador
----,Q106695889,Suecy Callejas,Ministro de Cultura
-+++,"",Suecy Beverly Callejas Estrada,Ministro de Cultura
-+++,"",Enrique José Parada Rivas,Ministro de Agricultura y Ganadería
-+++,"",José Mauricio Pineda Rodríguez,"Ministro de Educación,Ciencia y Tecnología"
+@@,item,itemlabel,position,positionlabel,startdate,enddate,psid
+->,Q67056921,Rogelio Eduardo Rivas Polanco,Q67056742,Ministerio de Justicia y Seguridad Pública,2019-06-01,2021-03-26->2021-04-23,Q67056921-f22c9f36-4ea4-c9e1-8e82-a96bde9e268f
+->,Q56249753,Nelson Eduardo Fuentes Menjívar,Q56249714,Ministerio de Hacienda,2018-03-20->2018-04-20,2020-07-28,Q56249753-aab4fe11-4da7-1ed2-9597-297e26d63351
+->,Q110165180,Mariemm Eunice Pleitez Quiñonez,Q110164211,Ministerio de Cultura,2020-07-30->2021-07-30,,Q110165180-018CB45F-38D5-4CA1-AEEE-F0C5A6140238
+->,Q110164006,Héctor Gustavo Villatoro,Q67056742,Ministerio de Justicia y Seguridad Pública,2021-03-26->2021-04-23,,Q110164006-22D9A13B-4AB8-44B0-8DAA-006591A2988D
+---,Q61022687,"Félix Ulloa, Jr.",Q7925044,Vice President of El Salvador,2019-06-01,,Q61022687-7e23207c-44ac-ab62-2418-58897f150837
+---,Q17712353,Nayib Bukele,Q878151,President of El Salvador,2019-06-01,,Q17712353-11132b04-4ba4-cead-5d0c-1da0c780b282

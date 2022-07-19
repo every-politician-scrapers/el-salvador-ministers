@@ -1,0 +1,157 @@
+{
+  "title": "Alejandro Zelaya",
+  "pageID": 66963053,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Finance ministers of El Salvador"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Alejandro Zelaya Villalobo is a Salvadoran politician.",
+              "links": [
+                {
+                  "text": "Salvadoran",
+                  "type": "internal",
+                  "page": "El Salvador"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Alejandro Zelaya Villalobo"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Minister of Finance in the cabinet of President Nayib Bukele.",
+              "links": [
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Nayib Bukele"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nayib Bukele"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Deputy Minister of Revenue in the same cabinet."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Salvadoran politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Zelaya",
+            "Villalobo"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alejandro Zelaya"
+          },
+          "office": {
+            "text": "Minister of Finance"
+          },
+          "term_start": {
+            "text": "28 July 2020"
+          },
+          "predecessor": {
+            "text": "Nelson Fuentes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nelson Fuentes"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "29 July 2020",
+          "title": "The Minister of Finance has resigned",
+          "work": "U.S-El Salvador Sister Cities",
+          "url": "https://www.elsalvadorsolidarity.org/resignation-nelson-fuentes/",
+          "url-status": "live",
+          "access-date": "2 March 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "11 June 2019",
+          "title": "Presidente Bukele juramenta a 31 nuevos funcionarios de gobierno",
+          "language": "es",
+          "work": "elsalvador.com",
+          "url": "https://www.elsalvador.com/noticias/nacional/presidente-bukele-juramenta-a-nuevos-funcionarios-de-gobierno/611610/2019/",
+          "url-status": "live",
+          "access-date": "2 March 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "12 June 2019",
+          "title": "GANA y Nuevas Ideas suman miembros en nuevo gabinete",
+          "language": "es",
+          "work": "Noticias de El Salvador - La Prensa Gráfica",
+          "url": "https://www.laprensagrafica.com/elsalvador/GANA-y-Nuevas-Ideas-suman-miembros-en-nuevo-gabinete-20190611-0465.html",
+          "url-status": "live",
+          "access-date": "2 March 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Nelson Fuentes",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Finance",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "elsalvador-politician-stub"
+        }
+      ]
+    }
+  ]
+}

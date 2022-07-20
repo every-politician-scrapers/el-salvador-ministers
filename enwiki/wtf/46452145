@@ -141,10 +141,10 @@
               ]
             },
             {
-              "text": "Since March 2022, Bukele's government has arrested over 46,100 people with gang affiliations following a significant spike in murders, leading to accusations of human rights violations being committed by El Salvador's security forces.",
+              "text": "Since March 2022, Bukele's government has arrested almost 46,700 people with gang affiliations following a significant spike in murders, leading to accusations of human rights violations being committed by El Salvador's security forces.",
               "links": [
                 {
-                  "text": "over 46,100 people with gang affiliations",
+                  "text": "almost 46,700 people with gang affiliations",
                   "type": "internal",
                   "page": "2022 Salvadoran gang crackdown"
                 },
@@ -2146,7 +2146,7 @@
               ]
             },
             {
-              "text": "As of 15 July 2022, El Salvador had 180,970 confirmed cases and 4,165 deaths, and as of 8 July 2022, 10,922,791 doses of the vaccine had been administered."
+              "text": "As of 18 July 2022, El Salvador had 180,970 confirmed cases and 4,165 deaths, and as of 8 July 2022, 10,922,791 doses of the vaccine had been administered."
             }
           ]
         },
@@ -2566,6 +2566,16 @@
             },
             {
               "text": "The International Monetary Fund urged the Bukele government to strip bitcoin of its status as legal currency due to its large risks, indicating a major obstacle for the government's efforts to get an international loan from the institution."
+            },
+            {
+              "text": "As of June 2022, the Salvadoran government has lost $56 million dollars in bitcoin, and economists state that the country likely going to default on its debt.",
+              "links": [
+                {
+                  "text": "default on its debt",
+                  "type": "internal",
+                  "page": "Default (finance)"
+                }
+              ]
             }
           ]
         }
@@ -2714,6 +2724,26 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "15 June 2022",
+          "title": "El Salvador's Big Bitcoin Gamble Backfires to Deepen Debt Woes",
+          "language": "en",
+          "work": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2022-06-15/el-salvador-s-big-bitcoin-gamble-backfires-to-deepen-debt-woes",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "7 July 2022",
+          "title": "Historic Cascade of Defaults Is Coming for Emerging Markets",
+          "language": "en",
+          "work": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2022-07-07/why-developing-countries-are-facing-a-debt-default-crisis",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -3056,7 +3086,7 @@
               ]
             },
             {
-              "text": "According the national police, 46,120 gang members, which Bukele and the police refer to as \"terrorists,\" were arrested as of 15 July 2022, 109 days since the declaration of a state of emergency.",
+              "text": "According the national police, 46,694 gang members, which Bukele and the police refer to as \"terrorists,\" were arrested as of 18 July 2022, 112 days since the declaration of a state of emergency.",
               "links": [
                 {
                   "text": "terrorists",
@@ -3301,12 +3331,12 @@
         {
           "author": "Ministry of Security",
           "user": "SeguridadSV",
-          "number": "1548088668690075648",
-          "date": "15 July 2022",
-          "title": "Desde que inició la #GuerraContraPandillas hasta la fecha, sumamos más de 46 mil terroristas capturados. No vamos a dar ni un solo paso atrás. #Seguimos 🇸🇻",
-          "trans-title": "Since the #WarAgainstGangs started until today, we have arrested over 46 thousand terrorists. We will not take a single step back. #WeContinue 🇸🇻",
+          "number": "1549047083042492421",
+          "date": "18 July 2022",
+          "title": "#Seguimos capturando criminales que tendrán que pagar con años de cárcel. La #GuerraContraPandillas continúa. 👊🏻",
+          "trans-title": "#WeContinue capturing criminals who must pay with years in prison. The #WarAgainstGangs continues. 👊🏻",
           "language": "es",
-          "access-date": "16 July 2022",
+          "access-date": "19 July 2022",
           "template": "citation",
           "type": "tweet"
         },

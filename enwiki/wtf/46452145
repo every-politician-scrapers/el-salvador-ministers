@@ -3132,7 +3132,7 @@
               "text": "The following day, 67 of the 84 deputies of the Legislative Assembly voted in favor of extending the state of emergency by 30 more days."
             },
             {
-              "text": "The Legislative Assembly extended the state of emergency by 30 days for a second time on 25 May 2022, with 67 of the 84 deputies again voting in favor."
+              "text": "The Legislative Assembly has since extended the state of emergency by 30 days three additional times with 67 of the 84 deputies again voting in favor on 25 May 2022, 21 June 2022, and 19 July 2022."
             },
             {
               "text": "According to a survey conducted by CIESCA in late-May 2022, 90.13 percent of Salvadorans approved of the state of emergency and the measures taken by the government against the gangs, while only 7.10 percent did not approve."
@@ -3166,7 +3166,7 @@
                 {
                   "text": "enforced disappearances",
                   "type": "internal",
-                  "page": "Enforced disappearance"
+                  "page": "enforced disappearance"
                 },
                 {
                   "text": "deaths in police custody",
@@ -3411,6 +3411,35 @@
           "work": "Reuters",
           "date": "25 May 2022",
           "access-date": "26 May 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://diario.elmundo.sv/politica/asamblea-aprueba-regimen-de-excepcion-por-30-dias-mas",
+          "title": "Asamblea Aprueba Régimen de Excepción por 30 Días Más",
+          "trans-title": "The Assembly Approves Extending the State of Exception for 30 More Days",
+          "language": "es",
+          "date": "21 June 2022",
+          "access-date": "19 July 2022",
+          "work": "El Mundo",
+          "archive-url": "https://web.archive.org/web/20220622031340/https://diario.elmundo.sv/politica/asamblea-aprueba-regimen-de-excepcion-por-30-dias-mas",
+          "url-status": "live",
+          "archive-date": "22 June 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elsalvador.com/noticias/nacional/prorroga-30-dias-mas-regimen-excepcion-asamblea-legislativa-gabinete-seguridad/979136/2022/",
+          "title": "Asamblea Aprueba Cuarta Prórroga del Régimen de Excepción",
+          "trans-title": "The Assembly Approves the Fourth Extension of the State of Exception",
+          "language": "es",
+          "work": "El Salvador.com",
+          "date": "19 July 2022",
+          "access-date": "19 July 2022",
+          "first1": "Milton",
+          "last1": "Rodríguez",
+          "first2": "Liseth",
+          "last2": "Alas",
           "template": "citation",
           "type": "web"
         },

@@ -4749,7 +4749,7 @@
       ],
       "templates": [
         {
-          "template": "commons category"
+          "template": "commons"
         },
         {
           "template": "s-start"
